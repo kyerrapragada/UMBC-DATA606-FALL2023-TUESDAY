@@ -2,7 +2,7 @@
 
 || Email: **<sri.yerrapragada1@gmail.com>** || Phone: **681 219 7452** || LinkedIn: **[www.linkedin.com/in/sri-yerrapragada](www.linkedin.com/in/sri-yerrapragada)** ||
 
-<img src="headshot.jpg" alt="Your Headshot" width="100" height="100">
+<img src="headshot.jpg" alt="My Headshot" width="100" height="100">
 
 Pursuing a master's in data science with over two years of professional experience in data analysis and business intelligence, I'm a Microsoft certified data analyst proficient in SQL and Power BI. I possess expertise in data collection, interpretation, and analysis, as well as the ability to translate business objectives into technical solutions. Additionally, I'm certified in Microsoft Azure and eager to contribute versatile analytical skills, collaborating effectively within a dynamic team to drive success.
 
